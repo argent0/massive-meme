@@ -1,0 +1,76 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Proyección del precio del dolar</title>
+
+		<!-- Loading Bootstrap -->
+		<link href="css/vendor/bootstrap.min.css" rel="stylesheet">
+
+		<!-- Loading Flat UI -->
+		<link href="css/flat-ui.min.css" rel="stylesheet">
+
+		<link href="css/index.css" rel="stylesheet">
+
+		<link rel="shortcut icon" href="img/favicon.ico">
+
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="row">
+						<h1>Predicción del precio del dolar</h1>
+					</div>
+					<div class="row">
+
+						<div class="col-sm-4 shadow">
+
+							<div class="row price-box">
+								<h4>Último precio publicado</h4>
+								<div class="col-sm-6">
+									2015-12-5
+								</div>
+
+								<div class="col-sm-6">
+									<span class="known-price">$&nbsp;12,550</span>
+								</div>
+							</div>
+
+							<div class="row price-box">
+								<h4>Precio proyectado</h4>
+								<div class="col-sm-6">
+									2015-13-05	
+								</div>
+
+								<div class="col-sm-6">
+									<span class="predicted-price">$&nbsp;12,616</span>
+								</div>
+							</div>
+
+						</div> <!-- Deatil Comun -->
+						<div class="col-sm-8">
+							<embed src="prediction-plot.svg" type="image/svg+xml" class="shadow"/>
+						</div> <!-- Chart column -->
+					</div>
+				</div>
+			</div>
+		</div> <!-- /.container -->
+
+
+		<!-- jQuery (necessary for Flat UI's JavaScript plugins) -->
+		<script src="js/vendor/jquery.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/vendor/video.js"></script>
+		<script src="js/flat-ui.min.js"></script>
+
+	</body>
+</html>
+<!--
+-- vim: ft=html
+-->
