@@ -390,11 +390,11 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="round" stroke-linejoin="round">
 	<g stroke='none' shape-rendering='crispEdges'>
-		<polygon fill = 'rgb(198, 224, 244)' points = '80.2,284.1 99.3,284.1 118.4,297.2 137.5,329.8 194.8,342.8 213.9,329.8 233.0,316.7 252.1,336.3 271.2,329.8 328.5,349.3 347.6,349.3 366.7,349.3 385.8,316.7 404.9,310.2 462.2,297.2 481.3,199.3
+		<polygon fill = 'rgb(198, 224, 244)' points = '80.2,302.7 99.3,311.6 118.4,333.7 175.7,342.6 194.8,333.7 213.9,324.9 233.0,338.2 252.1,333.7 309.4,347.0 328.5,347.0 347.6,347.0 366.7,324.9 385.8,320.4 443.1,311.6 462.2,245.1 481.3,205.2
 481.3,422.4 80.2,422.4 '/>
 	</g>
-	<path stroke='rgb(198, 224, 244)'  d='M80.2,284.1 L99.3,284.1 L118.4,297.2 L137.5,329.8 L194.8,342.8 L213.9,329.8 L233.0,316.7 L252.1,336.3
-		L271.2,329.8 L328.5,349.3 L347.6,349.3 L366.7,349.3 L385.8,316.7 L404.9,310.2 L462.2,297.2 L481.3,199.3
+	<path stroke='rgb(198, 224, 244)'  d='M80.2,302.7 L99.3,311.6 L118.4,333.7 L175.7,342.6 L194.8,333.7 L213.9,324.9 L233.0,338.2 L252.1,333.7
+		L309.4,347.0 L328.5,347.0 L347.6,347.0 L366.7,324.9 L385.8,320.4 L443.1,311.6 L462.2,245.1 L481.3,205.2
 		 '/></g>
 	</g>
 	<g id="prediction_plot_plot_2" ><title>Precio para la venta</title>
@@ -406,30 +406,30 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='rgb(  0, 130, 233)'  d='M560.7,34.7 L598.4,34.7  '/>	</g>
-	<path stroke='rgb(  0, 130, 233)'  d='M80.2,284.1 L99.3,284.1 L118.4,297.2 L137.5,329.8 L194.8,342.8 L213.9,329.8 L233.0,316.7 L252.1,336.3
-		L271.2,329.8 L328.5,349.3 L347.6,349.3 L366.7,349.3 L385.8,316.7 L404.9,310.2 L462.2,297.2 L481.3,199.3
+	<path stroke='rgb(  0, 130, 233)'  d='M80.2,302.7 L99.3,311.6 L118.4,333.7 L175.7,342.6 L194.8,333.7 L213.9,324.9 L233.0,338.2 L252.1,333.7
+		L309.4,347.0 L328.5,347.0 L347.6,347.0 L366.7,324.9 L385.8,320.4 L443.1,311.6 L462.2,245.1 L481.3,205.2
 		 '/></g>
 	</g>
 	<g id="prediction_plot_plot_3" ><title>prediction_plot_plot_3</title>
 <g fill="none" color="white" stroke="rgb(  0, 130, 233)" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<use xlink:href='#gpPt6' transform='translate(80.2,284.1) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(99.3,284.1) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(118.4,297.2) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(137.5,329.8) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(194.8,342.8) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(213.9,329.8) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(233.0,316.7) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(252.1,336.3) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(271.2,329.8) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(328.5,349.3) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(347.6,349.3) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(366.7,349.3) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(385.8,316.7) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(404.9,310.2) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(462.2,297.2) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(481.3,199.3) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(80.2,302.7) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(99.3,311.6) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(118.4,333.7) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(175.7,342.6) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(194.8,333.7) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(213.9,324.9) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(233.0,338.2) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(252.1,333.7) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(309.4,347.0) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(328.5,347.0) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(347.6,347.0) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(366.7,324.9) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(385.8,320.4) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(443.1,311.6) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(462.2,245.1) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(481.3,205.2) scale(2.25)' color='rgb(255, 255, 255)'/>
 </g>
 	</g>
 	<g id="prediction_plot_plot_4" ><title>Predicción del precio para la venta</title>
@@ -443,30 +443,30 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="4.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='rgb(  0, 233, 130)'  d='M560.7,52.7 L598.4,52.7  '/>	</g>
-	<path stroke='rgb(  0, 233, 130)'  d='M99.3,265.1 L118.4,267.8 L137.5,270.4 L156.6,281.7 L213.9,299.4 L233.0,295.7 L252.1,299.8 L271.2,311.8
-		L290.3,307.0 L347.6,310.1 L366.7,317.6 L385.8,310.3 L404.9,303.0 L424.0,287.0 L481.3,273.4 L500.4,179.9
+	<path stroke='rgb(  0, 233, 130)'  d='M99.3,287.1 L118.4,288.8 L137.5,297.3 L194.8,309.7 L213.9,308.9 L233.0,309.6 L252.1,317.0 L271.2,314.2
+		L328.5,315.4 L347.6,320.8 L366.7,319.6 L385.8,311.9 L404.9,302.7 L462.2,292.3 L481.3,233.0 L500.4,193.4
 		 '/></g>
 	</g>
 	<g id="prediction_plot_plot_5" ><title>prediction_plot_plot_5</title>
 <g fill="none" color="white" stroke="rgb(  0, 233, 130)" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<use xlink:href='#gpPt6' transform='translate(99.3,265.1) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(118.4,267.8) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(137.5,270.4) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(156.6,281.7) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(213.9,299.4) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(233.0,295.7) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(252.1,299.8) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(271.2,311.8) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(290.3,307.0) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(347.6,310.1) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(366.7,317.6) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(385.8,310.3) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(404.9,303.0) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(424.0,287.0) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(481.3,273.4) scale(2.25)' color='rgb(255, 255, 255)'/>
-	<use xlink:href='#gpPt6' transform='translate(500.4,179.9) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(99.3,287.1) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(118.4,288.8) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(137.5,297.3) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(194.8,309.7) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(213.9,308.9) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(233.0,309.6) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(252.1,317.0) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(271.2,314.2) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(328.5,315.4) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(347.6,320.8) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(366.7,319.6) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(385.8,311.9) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(404.9,302.7) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(462.2,292.3) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(481.3,233.0) scale(2.25)' color='rgb(255, 255, 255)'/>
+	<use xlink:href='#gpPt6' transform='translate(500.4,193.4) scale(2.25)' color='rgb(255, 255, 255)'/>
 </g>
 	</g>
 	<g id="prediction_plot_plot_6" ><title>Incertidumbre</title>
@@ -478,76 +478,103 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M560.7,75.2 L598.4,75.2 L598.4,66.2 L560.7,66.2 L560.7,75.2 Z  '/>	</g>
-	<path stroke='black'  d='M99.3,296.9 L99.3,274.7 M99.3,257.7 L99.3,233.5 M90.5,274.7 L108.1,274.7 L108.1,257.7 L90.5,257.7
-		L90.5,274.7 Z  '/>	<path stroke='black'  d='M94.9,233.5 L103.7,233.5 M94.9,296.9 L103.7,296.9 M118.4,302.6 L118.4,277.3 M118.4,256.6 L118.4,244.1
-		M109.6,277.3 L127.2,277.3 L127.2,256.6 L109.6,256.6 L109.6,277.3 Z  '/>	<path stroke='black'  d='M114.0,244.1 L122.8,244.1 M114.0,302.6 L122.8,302.6 M137.5,296.9 L137.5,279.3 M137.5,260.2 L137.5,244.2
-		M128.7,279.3 L146.3,279.3 L146.3,260.2 L128.7,260.2 L128.7,279.3 Z  '/>	<path stroke='black'  d='M133.1,244.2 L141.9,244.2 M133.1,296.9 L141.9,296.9 M156.6,308.0 L156.6,291.3 M156.6,273.8 L156.6,259.9
-		M147.8,291.3 L165.4,291.3 L165.4,273.8 L147.8,273.8 L147.8,291.3 Z  '/>	<path stroke='black'  d='M152.2,259.9 L161.0,259.9 M152.2,308.0 L161.0,308.0 M213.9,318.9 L213.9,309.6 M213.9,292.1 L213.9,282.8
-		M205.1,309.6 L222.7,309.6 L222.7,292.1 L205.1,292.1 L205.1,309.6 Z  '/>	<path stroke='black'  d='M209.5,282.8 L218.3,282.8 M209.5,318.9 L218.3,318.9 M233.0,317.8 L233.0,305.7 M233.0,289.5 L233.0,274.7
-		M224.2,305.7 L241.8,305.7 L241.8,289.5 L224.2,289.5 L224.2,305.7 Z  '/>	<path stroke='black'  d='M228.6,274.7 L237.4,274.7 M228.6,317.8 L237.4,317.8 M252.1,324.4 L252.1,310.7 M252.1,293.6 L252.1,283.3
-		M243.3,310.7 L260.9,310.7 L260.9,293.6 L243.3,293.6 L243.3,310.7 Z  '/>	<path stroke='black'  d='M247.7,283.3 L256.5,283.3 M247.7,324.4 L256.5,324.4 M271.2,335.0 L271.2,319.7 M271.2,302.3 L271.2,288.6
-		M262.4,319.7 L280.0,319.7 L280.0,302.3 L262.4,302.3 L262.4,319.7 Z  '/>	<path stroke='black'  d='M266.8,288.6 L275.6,288.6 M266.8,335.0 L275.6,335.0 M290.3,330.3 L290.3,314.7 M290.3,298.0 L290.3,281.6
-		M281.5,314.7 L299.1,314.7 L299.1,298.0 L281.5,298.0 L281.5,314.7 Z  '/>	<path stroke='black'  d='M285.9,281.6 L294.7,281.6 M285.9,330.3 L294.7,330.3 M347.6,334.1 L347.6,316.1 M347.6,298.5 L347.6,285.0
-		M338.8,316.1 L356.4,316.1 L356.4,298.5 L338.8,298.5 L338.8,316.1 Z  '/>	<path stroke='black'  d='M343.2,285.0 L352.0,285.0 M343.2,334.1 L352.0,334.1 M366.7,340.7 L366.7,325.9 M366.7,309.7 L366.7,293.3
-		M357.9,325.9 L375.5,325.9 L375.5,309.7 L357.9,309.7 L357.9,325.9 Z  '/>	<path stroke='black'  d='M362.3,293.3 L371.1,293.3 M362.3,340.7 L371.1,340.7 M385.8,332.5 L385.8,322.0 M385.8,301.9 L385.8,292.9
-		M377.0,322.0 L394.6,322.0 L394.6,301.9 L377.0,301.9 L377.0,322.0 Z  '/>	<path stroke='black'  d='M381.4,292.9 L390.2,292.9 M381.4,332.5 L390.2,332.5 M404.9,321.6 L404.9,309.0 M404.9,295.9 L404.9,269.9
-		M396.1,309.0 L413.7,309.0 L413.7,295.9 L396.1,295.9 L396.1,309.0 Z  '/>	<path stroke='black'  d='M400.5,269.9 L409.3,269.9 M400.5,321.6 L409.3,321.6 M424.0,318.8 L424.0,299.0 M424.0,278.8 L424.0,258.8
-		M415.2,299.0 L432.8,299.0 L432.8,278.8 L415.2,278.8 L415.2,299.0 Z  '/>	<path stroke='black'  d='M419.6,258.8 L428.4,258.8 M419.6,318.8 L428.4,318.8 M481.3,295.3 L481.3,283.4 M481.3,268.3 L481.3,249.0
-		M472.5,283.4 L490.1,283.4 L490.1,268.3 L472.5,268.3 L472.5,283.4 Z  '/>	<path stroke='black'  d='M476.9,249.0 L485.7,249.0 M476.9,295.3 L485.7,295.3 M500.4,210.1 L500.4,190.0 M500.4,172.5 L500.4,145.2
-		M491.6,190.0 L509.2,190.0 L509.2,172.5 L491.6,172.5 L491.6,190.0 Z  '/>	<path stroke='black'  d='M496.0,145.2 L504.8,145.2 M496.0,210.1 L504.8,210.1  '/></g>
+	<path stroke='black'  d='M99.3,305.7 L99.3,292.1 M99.3,282.1 L99.3,265.5 M90.5,292.1 L108.1,292.1 L108.1,282.1 L90.5,282.1
+		L90.5,292.1 Z  '/>	<path stroke='black'  d='M94.9,265.5 L103.7,265.5 M94.9,305.7 L103.7,305.7 M118.4,303.4 L118.4,294.4 M118.4,283.1 L118.4,268.9
+		M109.6,294.4 L127.2,294.4 L127.2,283.1 L109.6,283.1 L109.6,294.4 Z  '/>	<path stroke='black'  d='M114.0,268.9 L122.8,268.9 M114.0,303.4 L122.8,303.4 M137.5,312.6 L137.5,303.2 M137.5,291.5 L137.5,273.1
+		M128.7,303.2 L146.3,303.2 L146.3,291.5 L128.7,291.5 L128.7,303.2 Z  '/>	<path stroke='black'  d='M133.1,273.1 L141.9,273.1 M133.1,312.6 L141.9,312.6 M194.8,325.1 L194.8,314.1 M194.8,304.9 L194.8,289.7
+		M186.0,314.1 L203.6,314.1 L203.6,304.9 L186.0,304.9 L186.0,314.1 Z  '/>	<path stroke='black'  d='M190.4,289.7 L199.2,289.7 M190.4,325.1 L199.2,325.1 M213.9,324.9 L213.9,312.5 M213.9,303.9 L213.9,293.8
+		M205.1,312.5 L222.7,312.5 L222.7,303.9 L205.1,303.9 L205.1,312.5 Z  '/>	<path stroke='black'  d='M209.5,293.8 L218.3,293.8 M209.5,324.9 L218.3,324.9 M233.0,325.0 L233.0,313.9 M233.0,305.6 L233.0,296.5
+		M224.2,313.9 L241.8,313.9 L241.8,305.6 L224.2,305.6 L224.2,313.9 Z  '/>	<path stroke='black'  d='M228.6,296.5 L237.4,296.5 M228.6,325.0 L237.4,325.0 M252.1,330.1 L252.1,320.7 M252.1,312.7 L252.1,296.2
+		M243.3,320.7 L260.9,320.7 L260.9,312.7 L243.3,312.7 L243.3,320.7 Z  '/>	<path stroke='black'  d='M247.7,296.2 L256.5,296.2 M247.7,330.1 L256.5,330.1 M271.2,329.9 L271.2,317.8 M271.2,309.4 L271.2,295.4
+		M262.4,317.8 L280.0,317.8 L280.0,309.4 L262.4,309.4 L262.4,317.8 Z  '/>	<path stroke='black'  d='M266.8,295.4 L275.6,295.4 M266.8,329.9 L275.6,329.9 M328.5,330.6 L328.5,320.0 M328.5,312.1 L328.5,295.0
+		M319.7,320.0 L337.3,320.0 L337.3,312.1 L319.7,312.1 L319.7,320.0 Z  '/>	<path stroke='black'  d='M324.1,295.0 L332.9,295.0 M324.1,330.6 L332.9,330.6 M347.6,335.0 L347.6,326.1 M347.6,316.7 L347.6,306.0
+		M338.8,326.1 L356.4,326.1 L356.4,316.7 L338.8,316.7 L338.8,326.1 Z  '/>	<path stroke='black'  d='M343.2,306.0 L352.0,306.0 M343.2,335.0 L352.0,335.0 M366.7,334.3 L366.7,325.5 M366.7,314.9 L366.7,303.5
+		M357.9,325.5 L375.5,325.5 L375.5,314.9 L357.9,314.9 L357.9,325.5 Z  '/>	<path stroke='black'  d='M362.3,303.5 L371.1,303.5 M362.3,334.3 L371.1,334.3 M385.8,327.0 L385.8,315.3 M385.8,305.0 L385.8,298.1
+		M377.0,315.3 L394.6,315.3 L394.6,305.0 L377.0,305.0 L377.0,315.3 Z  '/>	<path stroke='black'  d='M381.4,298.1 L390.2,298.1 M381.4,327.0 L390.2,327.0 M404.9,320.9 L404.9,306.1 M404.9,298.8 L404.9,284.8
+		M396.1,306.1 L413.7,306.1 L413.7,298.8 L396.1,298.8 L396.1,306.1 Z  '/>	<path stroke='black'  d='M400.5,284.8 L409.3,284.8 M400.5,320.9 L409.3,320.9 M462.2,306.4 L462.2,296.0 M462.2,286.1 L462.2,275.0
+		M453.4,296.0 L471.0,296.0 L471.0,286.1 L453.4,286.1 L453.4,296.0 Z  '/>	<path stroke='black'  d='M457.8,275.0 L466.6,275.0 M457.8,306.4 L466.6,306.4 M481.3,260.1 L481.3,237.1 M481.3,227.6 L481.3,218.0
+		M472.5,237.1 L490.1,237.1 L490.1,227.6 L472.5,227.6 L472.5,237.1 Z  '/>	<path stroke='black'  d='M476.9,218.0 L485.7,218.0 M476.9,260.1 L485.7,260.1 M500.4,226.5 L500.4,200.3 M500.4,188.6 L500.4,172.4
+		M491.6,200.3 L509.2,200.3 L509.2,188.6 L491.6,188.6 L491.6,200.3 Z  '/>	<path stroke='black'  d='M496.0,172.4 L504.8,172.4 M496.0,226.5 L504.8,226.5  '/></g>
 	</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,362.4 L615.0,362.4  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,400.2 L615.0,400.2  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M80.2,362.4 L89.2,362.4 M615.0,362.4 L606.0,362.4  '/>	<g transform="translate(71.9,366.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M80.2,400.2 L89.2,400.2 M615.0,400.2 L606.0,400.2  '/>	<g transform="translate(71.9,404.7)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+		<text> 12.5</text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,355.9 L615.0,355.9  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M80.2,355.9 L89.2,355.9 M615.0,355.9 L606.0,355.9  '/>	<g transform="translate(71.9,360.4)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text> 12.6</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,297.2 L615.0,297.2  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,311.6 L615.0,311.6  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M80.2,297.2 L89.2,297.2 M615.0,297.2 L606.0,297.2  '/>	<g transform="translate(71.9,301.7)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M80.2,311.6 L89.2,311.6 M615.0,311.6 L606.0,311.6  '/>	<g transform="translate(71.9,316.1)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text> 12.7</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,232.0 L615.0,232.0  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,267.2 L615.0,267.2  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M80.2,232.0 L89.2,232.0 M615.0,232.0 L606.0,232.0  '/>	<g transform="translate(71.9,236.5)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M80.2,267.2 L89.2,267.2 M615.0,267.2 L606.0,267.2  '/>	<g transform="translate(71.9,271.7)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text> 12.8</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,166.7 L615.0,166.7  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,222.9 L615.0,222.9  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M80.2,166.7 L89.2,166.7 M615.0,166.7 L606.0,166.7  '/>	<g transform="translate(71.9,171.2)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M80.2,222.9 L89.2,222.9 M615.0,222.9 L606.0,222.9  '/>	<g transform="translate(71.9,227.4)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text> 12.9</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,101.5 L615.0,101.5  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,178.6 L615.0,178.6  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M80.2,101.5 L89.2,101.5 M615.0,101.5 L606.0,101.5  '/>	<g transform="translate(71.9,106.0)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M80.2,178.6 L89.2,178.6 M615.0,178.6 L606.0,178.6  '/>	<g transform="translate(71.9,183.1)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text> 13</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,36.3 L253.6,36.3 M606.7,36.3 L615.0,36.3  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,134.2 L615.0,134.2  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M80.2,36.3 L89.2,36.3 M615.0,36.3 L606.0,36.3  '/>	<g transform="translate(71.9,40.8)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<path stroke='black'  d='M80.2,134.2 L89.2,134.2 M615.0,134.2 L606.0,134.2  '/>	<g transform="translate(71.9,138.7)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text> 13.1</text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,89.9 L615.0,89.9  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M80.2,89.9 L89.2,89.9 M615.0,89.9 L606.0,89.9  '/>	<g transform="translate(71.9,94.4)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+		<text> 13.2</text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M80.2,45.6 L253.6,45.6 M606.7,45.6 L615.0,45.6  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M80.2,45.6 L89.2,45.6 M615.0,45.6 L606.0,45.6  '/>	<g transform="translate(71.9,50.1)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+		<text> 13.3</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
@@ -560,23 +587,23 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M80.2,422.4 L80.2,417.9 M80.2,16.7 L80.2,21.2  '/></g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M99.3,422.4 L99.3,16.7  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M99.3,422.4 L99.3,417.9 M99.3,16.7 L99.3,21.2  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M99.3,422.4 L99.3,16.7  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M118.4,422.4 L118.4,16.7  '/></g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M118.4,422.4 L118.4,413.4 M118.4,16.7 L118.4,25.7  '/>	<g transform="translate(118.4,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
+	<path stroke='black'  d='M99.3,422.4 L99.3,413.4 M99.3,16.7 L99.3,25.7  '/>	<g transform="translate(99.3,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
 		<text>28/05</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M118.4,422.4 L118.4,16.7  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M118.4,422.4 L118.4,417.9 M118.4,16.7 L118.4,21.2  '/></g>
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
@@ -617,23 +644,23 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M213.9,422.4 L213.9,417.9 M213.9,16.7 L213.9,21.2  '/></g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M233.0,422.4 L233.0,16.7  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M233.0,422.4 L233.0,417.9 M233.0,16.7 L233.0,21.2  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M233.0,422.4 L233.0,16.7  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M252.1,422.4 L252.1,16.7  '/></g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M252.1,422.4 L252.1,413.4 M252.1,16.7 L252.1,25.7  '/>	<g transform="translate(252.1,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
+	<path stroke='black'  d='M233.0,422.4 L233.0,413.4 M233.0,16.7 L233.0,25.7  '/>	<g transform="translate(233.0,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
 		<text>04/06</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M252.1,422.4 L252.1,16.7  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M252.1,422.4 L252.1,417.9 M252.1,16.7 L252.1,21.2  '/></g>
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
@@ -674,23 +701,23 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M347.6,422.4 L347.6,417.9 M347.6,16.7 L347.6,21.2  '/></g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M366.7,422.4 L366.7,79.7 M366.7,25.7 L366.7,16.7  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M366.7,422.4 L366.7,417.9 M366.7,16.7 L366.7,21.2  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M366.7,422.4 L366.7,79.7 M366.7,25.7 L366.7,16.7  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M385.8,422.4 L385.8,79.7 M385.8,25.7 L385.8,16.7  '/></g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M385.8,422.4 L385.8,413.4 M385.8,16.7 L385.8,25.7  '/>	<g transform="translate(385.8,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
+	<path stroke='black'  d='M366.7,422.4 L366.7,413.4 M366.7,16.7 L366.7,25.7  '/>	<g transform="translate(366.7,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
 		<text>11/06</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M385.8,422.4 L385.8,79.7 M385.8,25.7 L385.8,16.7  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M385.8,422.4 L385.8,417.9 M385.8,16.7 L385.8,21.2  '/></g>
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
@@ -731,23 +758,23 @@ onclick="gnuplot_svg.toggleCoordBox(evt)"  onmousemove="gnuplot_svg.moveCoordBox
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 	<path stroke='black'  d='M481.3,422.4 L481.3,417.9 M481.3,16.7 L481.3,21.2  '/></g>
-<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-</g>
-<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M500.4,422.4 L500.4,79.7 M500.4,25.7 L500.4,16.7  '/></g>
-<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-</g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M500.4,422.4 L500.4,417.9 M500.4,16.7 L500.4,21.2  '/></g>
+	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M500.4,422.4 L500.4,79.7 M500.4,25.7 L500.4,16.7  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='rgb(190, 190, 190)' class="gridline"  d='M519.5,422.4 L519.5,79.7 M519.5,25.7 L519.5,16.7  '/></g>
-<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
-	<path stroke='black'  d='M519.5,422.4 L519.5,413.4 M519.5,16.7 L519.5,25.7  '/>	<g transform="translate(519.5,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
+	<path stroke='black'  d='M500.4,422.4 L500.4,413.4 M500.4,16.7 L500.4,25.7  '/>	<g transform="translate(500.4,444.9)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="middle">
 		<text>18/06</text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
 </g>
+<g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M519.5,422.4 L519.5,79.7 M519.5,25.7 L519.5,16.7  '/></g>
+<g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="round" stroke-linejoin="round">
+	<path stroke='black'  d='M519.5,422.4 L519.5,417.9 M519.5,16.7 L519.5,21.2  '/></g>
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="round" stroke-linejoin="round">
@@ -809,15 +836,15 @@ gnuplot_svg.plot_ybot = 422.4;
 gnuplot_svg.plot_ytop = 16.7;
 gnuplot_svg.plot_width = 534.8;
 gnuplot_svg.plot_height = 405.7;
-gnuplot_svg.plot_axis_ymin = 12.508;
-gnuplot_svg.plot_axis_ymax = 13.13;
+gnuplot_svg.plot_axis_ymin = 12.45;
+gnuplot_svg.plot_axis_ymax = 13.3651;
 gnuplot_svg.polar_mode = false;
 gnuplot_svg.plot_axis_x2min = "none"
 gnuplot_svg.plot_axis_y2min = "none"
 gnuplot_svg.plot_logaxis_x = 0;
 gnuplot_svg.plot_logaxis_y = 0;
-gnuplot_svg.plot_axis_xmin = 1432598400.000;
-gnuplot_svg.plot_axis_xmax = 1435017600.000;
+gnuplot_svg.plot_axis_xmin = 1432684800.000;
+gnuplot_svg.plot_axis_xmax = 1435104000.000;
 gnuplot_svg.plot_timeaxis_x = "Date";
 gnuplot_svg.plot_timeaxis_y = "";
 ]]>
